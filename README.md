@@ -3,7 +3,7 @@ Use OpenCV-Python and Flask to create a web document scanner with a camera.
 
 ## Environment
 * Python 3.5
-* OpenCV 3.3.0
+* OpenCV 3.3.0.10
 
 ## How to Run 
 1. Install **Flask**:
