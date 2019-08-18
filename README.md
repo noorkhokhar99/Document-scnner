@@ -21,10 +21,9 @@ Use OpenCV-Python and Flask to create a web document scanner with a camera.
 3. Run the app:
 
     ```
-    python server.py
+    python test.py
     ```
-    ![camera list in Python](screenshot/web-document-scanner.PNG)
-
+   
 ## Reference
 * https://github.com/vipul-sharma20/document-scanner
 * http://www.pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/
