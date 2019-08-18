@@ -15,13 +15,13 @@ Use OpenCV-Python and Flask to create a web document scanner with a camera.
 2. Open **camera.py** and select a device:
 
     ```python
-    self.cap = cv2.VideoCapture(2) # It should be 0 if you have only one device.
+    self.cap = cv2.VideoCapture(1) # It should be 0 if you have only one device.
     ```
 
 3. Run the app:
 
     ```
-    python35 server.py
+    python server.py
     ```
     ![camera list in Python](screenshot/web-document-scanner.PNG)
 
